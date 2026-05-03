@@ -2,29 +2,19 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>Threat Intelligence IOC research Redline-stealer analysis</b>
+  - [Threat Intelligence IOC research Redline-stealer analysis](https://github.com/sochifree/Threat-Intelligence-IOC-Research-Redline-Stealer-analysis)
+- <b>Elastic Defend Unified EDR detection Engineering Lab</b>
+  - [Elastic Defend Unified EDR detection Engineering Lab](https://github.com/sochifree/Elastic-Defend-Unified-EDR-Detection-Engineering-Lab) <b>
+- <b>wazuh SIEM hybrid Lab</b>
+  - [wazuh SIEM hybrid Lab](https://github.com/sochifree/wazuh-SIEM-hybrid-Lab)
+- <b>Backend ( Node js )</b>
+  - [Dynamic Profile Endpoint](https://github.com/Dynamic-Profile-Endpoint)
+  - [String Analyser](https://github.com/sochifree/String-Analyzer)
+  - [Blog Platform](https://github.com/sochifree/blog-platform)
+  - [Task manager app](https://github.com/sochifree/task-manager-app)
+  - [An e-commerce platform](https://github.com/sochifree/An-E-commerce-platform)
+  - [Online learning App](https://github.com/sochifree/online-learning-app)
 
 <h2> 🤳 Connect with me:</h2>
 
